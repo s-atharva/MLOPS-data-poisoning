@@ -32,4 +32,4 @@ def train_model(file_path):
 
 
 if __name__ == "__main__":
-    train_model("iris.csv")
+    train_model("data/train_50.csv")

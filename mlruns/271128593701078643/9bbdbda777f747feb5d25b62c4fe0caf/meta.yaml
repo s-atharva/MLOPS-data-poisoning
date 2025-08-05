@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/271128593701078643/9bbdbda777f747feb5d25b62c4fe0caf/artifacts
+end_time: 1754397631431
+entry_point_name: ''
+experiment_id: '271128593701078643'
+lifecycle_stage: active
+run_id: 9bbdbda777f747feb5d25b62c4fe0caf
+run_name: data/train_5.csv
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754397628297
+status: 3
+tags: []
+user_id: akshay
