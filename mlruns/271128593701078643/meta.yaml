@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/271128593701078643
+creation_time: 1754397053841
+experiment_id: '271128593701078643'
+last_update_time: 1754397053841
+lifecycle_stage: active
+name: IRIS Poison Detection
