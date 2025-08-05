@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/271128593701078643/d8aa31260ac04a79a48b52ac4f55276c/artifacts
+end_time: 1754398119249
+entry_point_name: ''
+experiment_id: '271128593701078643'
+lifecycle_stage: active
+run_id: d8aa31260ac04a79a48b52ac4f55276c
+run_name: accuracy_chart
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754398118905
+status: 3
+tags: []
+user_id: akshay
