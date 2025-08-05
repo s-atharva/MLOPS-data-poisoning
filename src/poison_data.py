@@ -1,6 +1,5 @@
 import pandas as pd
 from sklearn.datasets import load_iris
-from sklearn.utils import shuffle
 import numpy as np
 
 
